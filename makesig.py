@@ -1,6 +1,7 @@
 #Generates a SourceMod-ready signature.
 #@author nosoop
 #@category _NEW_
+#@runtime Jython
 #@keybinding 
 #@menupath 
 #@toolbar 
